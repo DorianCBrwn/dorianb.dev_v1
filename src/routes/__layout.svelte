@@ -1,4 +1,5 @@
 <script>
+	import '../app.postcss';
 	import Nav from '$lib/Nav.svelte';
 </script>
 
@@ -100,6 +101,8 @@
 		</div>
 	</div>
 </footer>
+
+<slot />
 
 <style>
 </style>
