@@ -1,4 +1,5 @@
 <script>
+	import Nav from '$lib/Nav.svelte';
 </script>
 
 <svelte:head>
@@ -6,21 +7,7 @@
 </svelte:head>
 
 <header>
-	<nav id="site-navigation">
-		<div class="jump-to-section_container" />
-		<!-- TODO Add logo svg -->
-		<a href="/"><img src="#" alt="DCC Logo" /></a>
-		<div class="primary-nav_container">
-			<ul class="primary-nav_links">
-				<li><a href="/about">About</a></li>
-				<li><a href="/articles">Articles</a></li>
-				<li><a href="/work">Work</a></li>
-				<li><a href="/contact">Contact</a></li>
-			</ul>
-			<!-- TODO: replace button with hamburger component -->
-			<button />
-		</div>
-	</nav>
+	<Nav />
 </header>
 
 <main>
@@ -115,7 +102,4 @@
 </footer>
 
 <style>
-	#site-navigation {
-		display: flex;
-	}
 </style>

@@ -3,6 +3,7 @@
 	<p><em>Published on: <time datetime="2021-07-24">July 24</time></em></p>
 	<p><small><strong>Written by</strong>: Stephanie Eckles</small></p>
 </header>
+
 <article>
 	<h2>Lorem ipsum dolor sit.</h2>
 	<p>
