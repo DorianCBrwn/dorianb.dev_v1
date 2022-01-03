@@ -20,7 +20,13 @@
 	<div class="jump-to-section_container" />
 	<a href="/">
 		<!-- TODO: replace with svg animated component -->
-		<svg xmlns="http://www.w3.org/2000/svg" width="55" height="76" fill="none" viewBox="0 0 55 76">
+		<svg
+			xmlns="http://www.w3.org/2000/svg"
+			width="55"
+			height="76"
+			fill="none"
+			viewBox="0 -30 55 76"
+		>
 			<g class="Icon2">
 				<path
 					stroke="#FEFCFB"

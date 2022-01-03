@@ -22,7 +22,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" {width} {height} {viewBox} {stroke} {fill} {...$$restProps}>
 	{@html elements}
 </svg>
-<svg xmlns="http://www.w3.org/2000/svg" width="55" height="76" fill="none" viewBox="0 0 55 76">
+<svg xmlns="http://www.w3.org/2000/svg" width="55" height="55" fill="none" viewBox="0 0 55 55">
 	<g class="Icon2">
 		<path
 			stroke="#FEFCFB"
